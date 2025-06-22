@@ -23,7 +23,7 @@ Some cybersecurity labs that review things like encryption algorithms, buffer ov
 ## Lab 4
 **TCP based Attacks**
 - A TCP SYN Flood Attack occurs when an attacker will manipulate packets being sent from a client to a server. It leverages the vulnerability of the TCP 3-way handshake, where the server will be left waiting for an SYN/ACK packet causeing it to become overloaded. This kind of attack is particularly useful when attempting a Denial-Of-Service (DOS) attack.
-- We also observe TCP reset attacks and session hijacking to invoke a revserse shell.
+- We also observe TCP reset attacks and session hijacking to invoke a reverse shell.
 ---
 **Feel free to go through these labs and try some of them yourself!**
 
