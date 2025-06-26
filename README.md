@@ -30,7 +30,7 @@ This repository showcases hands-on cybersecurity labs I've completed to strength
 
 ## What You'll Find in This Repo
 Each lab folder contains:
-- A detailed lab report or writeup (e.g., `LabX_Report.md`)
+- A detailed lab report or writeup (e.g., `HW*_Report.docx`)
 - Screenshots or packet captures (where applicable)
 - Scripts and example payloads
 - Tools used and key takeaways
