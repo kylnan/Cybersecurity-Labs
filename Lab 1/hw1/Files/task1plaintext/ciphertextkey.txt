@@ -1,0 +1,31 @@
+A = W
+B = C
+C = V
+D = M
+E = X
+F = J
+G = D
+H = O
+I = Q
+J = U
+K = A
+L = B
+M = Y
+N = S
+O = G
+P = Z
+Q = E
+R = T 
+S = V
+T = I
+U = P
+V = L
+W = K
+X = H
+Y = N
+Z = Z
+
+WCVMXJDOQUABYSGZETVIPLKHNF
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+ 

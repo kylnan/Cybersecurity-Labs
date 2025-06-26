@@ -1,0 +1,7 @@
+Name: Kyle Zyler Cayanan
+ID: 80576955
+EECS 121
+
+I, Kyle Zyler Cayanan, hereby clarify that the files submitted represent my own work,
+that I did not copy any code from any other individuals or sources, 
+and that I did not share my code with only other students. 
